@@ -1,0 +1,19 @@
+[
+
+	{
+		"name": "Mortar Carrier",
+		"prerequisites": ["Shock III","Drill III"],
+		"uniques": ["[+1] Range"],
+		"unitTypes": ["Gunpowder", "Melee"],
+		"column": 7,
+                "row": 5
+    },
+     {
+		"name": "Cluster Bomb",
+		"prerequisites": ["Interception II", "Dogfighting II"],
+		"uniques": ["[+50]% Strength <vs cities>"],
+		"unitTypes": ["Fighter"],
+		"column": 7,
+                "row": 6
+    }
+]
