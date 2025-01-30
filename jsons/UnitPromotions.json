@@ -1,17 +1,17 @@
 [
 
 	{
-		"name": "Mortar Carrier",
+		"name": "WMD Protection Kit",
 		"prerequisites": ["Shock III","Drill III"],
-		"uniques": ["[+1] Range"],
-		"unitTypes": ["Gunpowder", "Melee"],
-		"column": 7,
+		"uniques": ["[+48]% Strength <vs [Guided Missile] units> <when defending>", "[+38]% Strength <vs [Nuclear Missile] units> <when defending>", "[+38]% Strength <vs [Atomic Bomber] units> <when defending>"],
+		"unitTypes": ["Armored"],
+		"column": 9,
                 "row": 5
     },
      {
 		"name": "Cluster Bomb",
 		"prerequisites": ["Interception II", "Dogfighting II"],
-		"uniques": ["[+50]% Strength <vs cities>"],
+		"uniques": ["[+55]% Strength <vs cities>"],
 		"unitTypes": ["Fighter"],
 		"column": 7,
                 "row": 6
