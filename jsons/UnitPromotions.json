@@ -3,7 +3,7 @@
 	{
 		"name": "Anti-Air Kit",
 		"prerequisites": ["Shock III","Drill III"],
-		"uniques": ["[+48]% Strength <vs [Bomber] units> <when defending>", "[+48]% Strength <vs [Fighter] units> <when defending>","[+33]% Strength <vs [Missile] units> <when defending>"],
+		"uniques": ["[+48]% Strength <vs [Fighter Jet] units> <when defending>","[+48]% Strength <vs [Stealth Bomber] units> <when defending>", "[+48]% Strength <vs [Bomber] units> <when defending>", "[+48]% Strength <vs [Fighter] units> <when defending>","[+33]% Strength <vs [Missile] units> <when defending>"],
 		"unitTypes": ["Armored"],
 		"column": 9,
                 "row": 5
