@@ -17,7 +17,6 @@
 {
 		"name": "Railgun",
 		"unitType": "Siege",
-		"replaces": "Artillery",
 		"movement": 2,
 		"strength": 65,
 		"rangedStrength": 85,
