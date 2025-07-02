@@ -8,14 +8,6 @@
 		"column": 9,
                 "row": 5
     },
-	{
-		"name": "Heavy Ordinance Shell",
-		"prerequisites": ["Shock I","Drill I"],
-		"uniques": ["[+48]% Strength <vs [Fighter Jet] units> <when defending>","[+48]% Strength <vs [Stealth Bomber] units> <when defending>", "[+48]% Strength <vs [Bomber] units> <when defending>", "[+48]% Strength <vs [Fighter] units> <when defending>","[+33]% Strength <vs [Missile] units> <when defending>"],
-		"unitTypes": ["Armored"],
-		"column": 9,
-                "row": 5
-    },
      {
 		"name": "Cluster Bomb",
 		"prerequisites": ["Interception II", "Dogfighting II"],
