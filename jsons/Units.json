@@ -13,7 +13,7 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
 {
 		"name": "Railgun",
 		"unitType": "Siege",
@@ -27,5 +27,15 @@
 			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
+	},
+	{
+		"name": "Automation Infantry",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 130,
+		"cost": 500,
+		"requiredTech": "Robotics",
+		"uniques": ["Never appears as a Barbarian unit", "No defensive terrain penalty", "Ignores Zone of Control", "Ingnore Terrian Cost", "[+25]% maintenance costs ]"],
+		"attackSound": "tankshot"
 	}
 ]
